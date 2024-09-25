@@ -9,3 +9,7 @@ New customers of interest:
 1. A girl aged 10
 2. A woman aged 22
 3. A man aged 40
+
+## Python
+
+A more complex version of decision tree was made in Python using an additonal factor (country), more precise age brackets (young, adult, senior), and more apps.
